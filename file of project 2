@@ -22,7 +22,7 @@
             <h1>Projeto 2</h1>
             <p>Este projeto foi desenvolvido com um conjunto de uma equipe de  5 alunos na disciplina de Fundamentos de Programação na faculdade </p>
             <div class="projeto-detalhe">
-                <img src="C:\Users\Lucas\Downloads\project-in-python.jpg" width="800" alt="Imagem do Projeto 2" class="projeto-img">
+                <img src="project-in-python.jpg" width="800" alt="Imagem do Projeto 2" class="projeto-img">
 
                 <p>codigo de um  programa de treino feito como projeto na disciplina de Fundamentos de Programação na faculdade, abre edite e exclue arquivos que o usuário escolhe, podenod marcar treinos especificos com horarios e clima marcados.</p>
             </div>
