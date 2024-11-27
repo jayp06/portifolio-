@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descrição do Projeto A">
+    <title>Projeto A</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobremim.html">Sobre</a></li>
+                <li><a href="index.html#projetos">Projetos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Projeto 2</h1>
+            <p>Este projeto foi desenvolvido com um conjunto de uma equipe de  5 alunos na disciplina de Fundamentos de Programação na faculdade </p>
+            <div class="projeto-detalhe">
+                <img src="C:\Users\Lucas\Downloads\project-in-python.jpg" width="800" alt="Imagem do Projeto 2" class="projeto-img">
+
+                <p>codigo de um  programa de treino feito como projeto na disciplina de Fundamentos de Programação na faculdade, abre edite e exclue arquivos que o usuário escolhe, podenod marcar treinos especificos com horarios e clima marcados.</p>
+            </div>
+        </section>
+    </main>
+    
+</body>
+</html>
