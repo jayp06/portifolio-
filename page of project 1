@@ -1,0 +1,33 @@
+TYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descrição do Projeto A">
+    <title>Projeto A</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobremim.html">Sobre</a></li>
+                <li><a href="index.html#projetos">Projetos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Projeto 1</h1>
+            <p>Primeiro protótipo de desenvolvimento do projeto fiscio da faculdade, com o tema playable city. </p>
+            <div class="projeto-detalhe">
+                <img src="C:\Users\Lucas\Downloads\projeto1.jpg" width="150"  alt="Imagem do Projeto 1" class="projeto-img">
+                <p>prototipo feito de madeira com a inteção de ser usado arduino dentro dele, funciona como um lixo que emite sons e interage.</p>
+            </div>
+        </section>
+    </main>
+    
+    
+</body>
+</html>
