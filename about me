@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sobre mim e minha carreira.">
+    <title>Sobre</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobremim.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <img src="C:\Users\Lucas\Downloads\Imagem do WhatsApp de 2024-11-27 à(s) 14.35.20_541d817a.jpg" width="200">
+            <h1>Sobre Mim</h1>
+            <p>meu nome é Joao Pedro dos Santos e no momento estou estudando Ciência da Computação na CESAR School, com o objetivo de mergulhar no mercado de programação  na area de backend na parte de banco de dados, minhas linguagens de programaçao favoritas sao python, c# e java. Me considero muito proativo e curioso em relação a saber como as coisas funcionam, acredito que tenha sido por isso que me interessei na area de programação</p>
+        </section>
+    </main>
+    
+</body>
+</html>
