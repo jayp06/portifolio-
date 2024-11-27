@@ -1,0 +1,101 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #000000; 
+}
+
+header {
+    background: #48018a;
+    color: white;
+    padding: 1rem 0;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+header ul li {
+    margin: 0 15px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.1); 
+    border-radius: 8px;
+}
+
+#hero {
+    text-align: center;
+    padding: 3rem 0;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 2rem 0;
+}
+
+.projeto {
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.projeto a {
+
+    text-decoration: none;
+    color: white;
+}
+
+.projeto-detalhe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    text-align: center;
+
+    ;
+    
+}
+
+.projeto-img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.contato a {
+    text-decoration: underline;
+    color: white;
+}
+
