@@ -18,7 +18,7 @@
     </header>
     <main>
         <section>
-            <img src="myself.jpg" width="200">
+            <img src="myself.jpg" width="200" alt = "minha foto" class = "projeto-img">
             <h1>Sobre Mim</h1>
             <p>meu nome é Joao Pedro dos Santos e no momento estou estudando Ciência da Computação na CESAR School, com o objetivo de mergulhar no mercado de programação  na area de backend na parte de banco de dados, minhas linguagens de programaçao favoritas sao python, c# e java. Me considero muito proativo e curioso em relação a saber como as coisas funcionam, acredito que tenha sido por isso que me interessei na area de programação</p>
         </section>
