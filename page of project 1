@@ -22,7 +22,7 @@ TYPE html>
             <h1>Projeto 1</h1>
             <p>Primeiro protótipo de desenvolvimento do projeto fiscio da faculdade, com o tema playable city. </p>
             <div class="projeto-detalhe">
-                <img src="C:\Users\Lucas\Downloads\projeto1.jpg" width="150"  alt="Imagem do Projeto 1" class="projeto-img">
+                <img src="projeto1.jpg" width="150"  alt="Imagem do Projeto 1" class="projeto-img">
                 <p>prototipo feito de madeira com a inteção de ser usado arduino dentro dele, funciona como um lixo que emite sons e interage.</p>
             </div>
         </section>
